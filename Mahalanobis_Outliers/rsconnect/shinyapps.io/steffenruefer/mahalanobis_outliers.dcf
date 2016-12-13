@@ -1,0 +1,11 @@
+name: mahalanobis_outliers
+title: Mahalanobis Outliers
+account: steffenruefer
+server: shinyapps.io
+appId: 144646
+bundleId: 647044
+url: https://steffenruefer.shinyapps.io/mahalanobis_outliers/
+when: 1481607705.86479
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: code.R|weight_height.csv
